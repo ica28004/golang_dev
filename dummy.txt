@@ -1,2 +1,3 @@
 dummy.txt
 feature
+conflictを追加（feature）
